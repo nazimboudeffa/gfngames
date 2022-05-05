@@ -1,5 +1,5 @@
 # GeForce NOW Games List
-Bug Tracker of the GFNList App, in case gfnlist go private
+Bug Tracker of the GFNList App, in case gfnlist go private and you don't see it public on GitHub
 
 # Why GFNList should go private ?
 
