@@ -7,4 +7,4 @@ It's weired to see that people just make clones of sites that are hardely coded,
 
 So, the repo went into a Bug Tracker, happy coding everyone ! 
 
-PS : May be I'll change my mood later but am really angry
+PS : May be I'll change my mood later but am really angry atm
