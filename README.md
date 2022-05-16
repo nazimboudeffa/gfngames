@@ -3,6 +3,8 @@ Bug Tracker of the GFNList App, in case gfnlist go private and you don't see it 
 
 # Why GFNList should go private ?
 
+The décision have not been taken but here are some motivations
+
 It's weired to see that people just make clones of sites that are hardely coded, particulary when they don't contribute, so it's a change that I assume because you have to know that nobody has given any donation or have given any help
 
 So, the repo went into a Bug Tracker 
